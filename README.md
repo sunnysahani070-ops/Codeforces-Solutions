@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 42 | 14 |
+| 43 | 14 |
 
 ---
 
@@ -19,9 +19,9 @@
 - [data structures](#data-structures) (1)
 - [games](#games) (2)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (15)
+- [greedy](#greedy) (16)
 - [implementation](#implementation) (11)
-- [math](#math) (22)
+- [math](#math) (23)
 - [number theory](#number-theory) (6)
 - [sortings](#sortings) (4)
 - [strings](#strings) (3)
@@ -97,6 +97,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1794B | [Not Dividing](https://codeforces.com/contest/1794/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1794/B%20-%20Not%20Dividing/solution.cpp) |
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
@@ -133,6 +134,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
 | 1777A | [Everybody Likes Good Arrays!](https://codeforces.com/contest/1777/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1777/A%20-%20Everybody%20Likes%20Good%20Arrays!/solution.cpp) |
 | 1783A | [Make it Beautiful](https://codeforces.com/contest/1783/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1783/A%20-%20Make%20it%20Beautiful/solution.cpp) |
 | 1788A | [One and Two](https://codeforces.com/contest/1788/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1788/A%20-%20One%20and%20Two/solution.cpp) |
