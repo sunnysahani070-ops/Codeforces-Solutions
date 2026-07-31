@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 77 | 17 |
+| 78 | 17 |
 
 ---
 
@@ -16,15 +16,15 @@
 - [bitmasks](#bitmasks) (2)
 - [brute force](#brute-force) (16)
 - [combinatorics](#combinatorics) (3)
-- [constructive algorithms](#constructive-algorithms) (18)
+- [constructive algorithms](#constructive-algorithms) (19)
 - [data structures](#data-structures) (2)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (2)
 - [games](#games) (3)
 - [geometry](#geometry) (1)
-- [greedy](#greedy) (35)
-- [implementation](#implementation) (17)
-- [math](#math) (41)
+- [greedy](#greedy) (36)
+- [implementation](#implementation) (18)
+- [math](#math) (42)
 - [number theory](#number-theory) (11)
 - [sortings](#sortings) (9)
 - [strings](#strings) (6)
@@ -81,6 +81,7 @@
 |---|---------|------------|----------|
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
 | 1559A | [Mocha and Math](https://codeforces.com/contest/1559/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1559/A%20-%20Mocha%20and%20Math/solution.cpp) |
+| 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
@@ -141,6 +142,7 @@
 | 1537B | [Bad Boy](https://codeforces.com/contest/1537/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1537/B%20-%20Bad%20Boy/solution.cpp) |
 | 1543A | [Exciting Bets](https://codeforces.com/contest/1543/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1543/A%20-%20Exciting%20Bets/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
+| 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
 | 1666D | [Deletive Editing](https://codeforces.com/contest/1666/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1666/D%20-%20Deletive%20Editing/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
@@ -177,6 +179,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
+| 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1675B | [Make It Increasing](https://codeforces.com/contest/1675/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1675/B%20-%20Make%20It%20Increasing/solution.cpp) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
@@ -209,6 +212,7 @@
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1607B | [Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1607/B%20-%20Odd%20Grasshopper/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
+| 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1715B | [Beautiful Array](https://codeforces.com/contest/1715/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1715/B%20-%20Beautiful%20Array/solution.cpp) |
 | 1726A | [Mainak and Array](https://codeforces.com/contest/1726/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1726/A%20-%20Mainak%20and%20Array/solution.cpp) |
