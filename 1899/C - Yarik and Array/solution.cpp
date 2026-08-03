@@ -1,4 +1,8 @@
-#include <bits/stdc++.h>
+#include <iostream>
+#include <vector>
+#include <algorithm>
+#include <cmath>
+ 
 using namespace std;
  
 void solve() {
@@ -9,34 +13,35 @@ void solve() {
         cin >> a[i];
     }
  
-    long long maxSum = a[0];
-    long long currentSum = a[0];
+    int max_sum = a[0];
+    int current_sum = a[0];
  
     for (int i = 1; i < n; i++) {
-        
-        if ((abs(a[i]) % 2) != (abs(a[i - 1]) % 2)) {
-            
-            currentSum = max((long long)a[i], currentSum + a[i]);
+        // Check if adjacent elements have alternating parity
+        if (abs(a[i] % 2) != abs(a[i - 1] % 2)) {
+            // Standard Kadane's logic: extend or start new subarray
+            current_sum = max(a[i], current_sum + a[i]);
         } else {
-            
-            currentSum = a[i];
+            // Parities are the same, must start a new subarray
+            current_sum = a[i];
         }
-        maxSum = max(maxSum, currentSum);
+ 
+        max_sum = max(max_sum, current_sum);
     }
  
-    cout << maxSum << "
+    cout << max_sum << "
 ";
 }
  
 int main() {
     ios_base::sync_with_stdio(false);
     cin.tie(NULL);
-    
+ 
     int t;
     cin >> t;
     while (t--) {
         solve();
     }
-    
+ 
     return 0;
 }
