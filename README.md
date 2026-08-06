@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 119 | 18 |
+| 120 | 18 |
 
 ---
 
@@ -17,19 +17,19 @@
 - [brute force](#brute-force) (27)
 - [combinatorics](#combinatorics) (5)
 - [constructive algorithms](#constructive-algorithms) (27)
-- [data structures](#data-structures) (5)
+- [data structures](#data-structures) (6)
 - [dfs and similar](#dfs-and-similar) (1)
 - [dp](#dp) (7)
 - [games](#games) (3)
 - [geometry](#geometry) (4)
-- [greedy](#greedy) (57)
+- [greedy](#greedy) (58)
 - [implementation](#implementation) (24)
-- [math](#math) (58)
+- [math](#math) (59)
 - [number theory](#number-theory) (18)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (23)
 - [strings](#strings) (12)
-- [two pointers](#two-pointers) (11)
+- [two pointers](#two-pointers) (12)
 
 ---
 
@@ -137,6 +137,7 @@
 |---|---------|------------|----------|
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
 | 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.cpp) |
+| 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
@@ -192,6 +193,7 @@
 | 1567B | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1567/B%20-%20MEXor%20Mixup/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
+| 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1665B | [Array Cloning Technique](https://codeforces.com/contest/1665/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1665/B%20-%20Array%20Cloning%20Technique/solution.cpp) |
 | 1666D | [Deletive Editing](https://codeforces.com/contest/1666/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1666/D%20-%20Deletive%20Editing/solution.cpp) |
@@ -287,6 +289,7 @@
 | 1607B | [Odd Grasshopper](https://codeforces.com/contest/1607/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1607/B%20-%20Odd%20Grasshopper/solution.cpp) |
 | 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
+| 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
 | 1679A | [AvtoBus](https://codeforces.com/contest/1679/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1679/A%20-%20AvtoBus/solution.cpp) |
 | 1708B | [Difference of GCDs](https://codeforces.com/contest/1708/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1708/B%20-%20Difference%20of%20GCDs/solution.cpp) |
@@ -408,6 +411,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1669F | [Eating Candies](https://codeforces.com/contest/1669/problem/F) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1669/F%20-%20Eating%20Candies/solution.cpp) |
 | 1690D | [Black and White Stripe](https://codeforces.com/contest/1690/problem/D) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1690/D%20-%20Black%20and%20White%20Stripe/solution.cpp) |
 | 1691B | [Shoe Shuffling](https://codeforces.com/contest/1691/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1691/B%20-%20Shoe%20Shuffling/solution.cpp) |
