@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 153 | 20 |
+| 154 | 20 |
 
 ---
 
@@ -16,9 +16,9 @@
 - [bitmasks](#bitmasks) (9)
 - [brute force](#brute-force) (34)
 - [combinatorics](#combinatorics) (6)
-- [constructive algorithms](#constructive-algorithms) (34)
+- [constructive algorithms](#constructive-algorithms) (35)
 - [data structures](#data-structures) (13)
-- [dfs and similar](#dfs-and-similar) (1)
+- [dfs and similar](#dfs-and-similar) (2)
 - [dp](#dp) (9)
 - [games](#games) (4)
 - [geometry](#geometry) (4)
@@ -120,6 +120,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1312/B%20-%20Bogosort/solution.cpp) |
+| 1433D | [Districts Connection](https://codeforces.com/contest/1433/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1433/D%20-%20Districts%20Connection/solution.cpp) |
 | 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1497B | [M-arrays](https://codeforces.com/contest/1497/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1497/B%20-%20M-arrays/solution.cpp) |
@@ -176,6 +177,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1433D | [Districts Connection](https://codeforces.com/contest/1433/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1433/D%20-%20Districts%20Connection/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 
 ### dp
