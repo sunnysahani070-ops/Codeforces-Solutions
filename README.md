@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 155 | 20 |
+| 156 | 20 |
 
 ---
 
@@ -15,7 +15,7 @@
 - [binary search](#binary-search) (11)
 - [bitmasks](#bitmasks) (10)
 - [brute force](#brute-force) (34)
-- [combinatorics](#combinatorics) (6)
+- [combinatorics](#combinatorics) (7)
 - [constructive algorithms](#constructive-algorithms) (35)
 - [data structures](#data-structures) (13)
 - [dfs and similar](#dfs-and-similar) (2)
@@ -25,8 +25,8 @@
 - [greedy](#greedy) (76)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (34)
-- [math](#math) (75)
-- [number theory](#number-theory) (21)
+- [math](#math) (76)
+- [number theory](#number-theory) (22)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (31)
 - [strings](#strings) (15)
@@ -115,6 +115,7 @@
 | 1840C | [Ski Resort](https://codeforces.com/contest/1840/problem/C) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1840/C%20-%20Ski%20Resort/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
+| 1931D | [Divisible Pairs](https://codeforces.com/contest/1931/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1931/D%20-%20Divisible%20Pairs/solution.cpp) |
 
 ### constructive algorithms
 
@@ -418,6 +419,7 @@
 | 1901A | [Line Trip](https://codeforces.com/contest/1901/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1901/A%20-%20Line%20Trip/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 | 1914C | [Quests](https://codeforces.com/contest/1914/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1914/C%20-%20Quests/solution.cpp) |
+| 1931D | [Divisible Pairs](https://codeforces.com/contest/1931/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1931/D%20-%20Divisible%20Pairs/solution.cpp) |
 
 ### number theory
 
@@ -444,6 +446,7 @@
 | 1899A | [Game with Integers](https://codeforces.com/contest/1899/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1899/A%20-%20Game%20with%20Integers/solution.cpp) |
 | 1899B | [250 Thousand Tons of TNT](https://codeforces.com/contest/1899/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1899/B%20-%20250%20Thousand%20Tons%20of%20TNT/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
+| 1931D | [Divisible Pairs](https://codeforces.com/contest/1931/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1931/D%20-%20Divisible%20Pairs/solution.cpp) |
 
 ### shortest paths
 
