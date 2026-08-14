@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 165 | 21 |
+| 166 | 22 |
 
 ---
 
@@ -18,11 +18,12 @@
 - [combinatorics](#combinatorics) (8)
 - [constructive algorithms](#constructive-algorithms) (36)
 - [data structures](#data-structures) (16)
-- [dfs and similar](#dfs-and-similar) (2)
-- [dp](#dp) (12)
+- [dfs and similar](#dfs-and-similar) (3)
+- [dp](#dp) (13)
 - [dsu](#dsu) (1)
 - [games](#games) (4)
 - [geometry](#geometry) (4)
+- [graphs](#graphs) (1)
 - [greedy](#greedy) (81)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (35)
@@ -31,7 +32,7 @@
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (33)
 - [strings](#strings) (15)
-- [trees](#trees) (2)
+- [trees](#trees) (3)
 - [two pointers](#two-pointers) (19)
 
 ---
@@ -193,6 +194,7 @@
 |---|---------|------------|----------|
 | 1433D | [Districts Connection](https://codeforces.com/contest/1433/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1433/D%20-%20Districts%20Connection/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
+| 1676G | [White-Black Balanced Subtrees](https://codeforces.com/contest/1676/problem/G) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1676/G%20-%20White-Black%20Balanced%20Subtrees/solution.cpp) |
 
 ### dp
 
@@ -200,6 +202,7 @@
 |---|---------|------------|----------|
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1631B | [Fun with Even Subarrays](https://codeforces.com/contest/1631/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1631/B%20-%20Fun%20with%20Even%20Subarrays/solution.cpp) |
+| 1676G | [White-Black Balanced Subtrees](https://codeforces.com/contest/1676/problem/G) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1676/G%20-%20White-Black%20Balanced%20Subtrees/solution.cpp) |
 | 1703F | [Yet Another Problem About Pairs Satisfying an Inequality](https://codeforces.com/contest/1703/problem/F) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1703/F%20-%20Yet%20Another%20Problem%20About%20Pairs%20Satisfying%20an%20Inequality/solution.cpp) |
 | 1791E | [Negatives and Positives](https://codeforces.com/contest/1791/problem/E) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1791/E%20-%20Negatives%20and%20Positives/solution.cpp) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.cpp) |
@@ -234,6 +237,12 @@
 | 1806A | [Walking Master](https://codeforces.com/contest/1806/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1806/A%20-%20Walking%20Master/solution.cpp) |
 | 1850E | [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1850/E%20-%20Cardboard%20for%20Pictures/solution.cpp) |
 | 1869B | [2D Traveling](https://codeforces.com/contest/1869/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1869/B%20-%202D%20Traveling/solution.cpp) |
+
+### graphs
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1676G | [White-Black Balanced Subtrees](https://codeforces.com/contest/1676/problem/G) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1676/G%20-%20White-Black%20Balanced%20Subtrees/solution.cpp) |
 
 ### greedy
 
@@ -550,6 +559,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
+| 1676G | [White-Black Balanced Subtrees](https://codeforces.com/contest/1676/problem/G) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1676/G%20-%20White-Black%20Balanced%20Subtrees/solution.cpp) |
 | 1857D | [Strong Vertices](https://codeforces.com/contest/1857/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1857/D%20-%20Strong%20Vertices/solution.cpp) |
 
 ### two pointers
