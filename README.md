@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 160 | 21 |
+| 161 | 21 |
 
 ---
 
@@ -26,12 +26,12 @@
 - [greedy](#greedy) (79)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (34)
-- [math](#math) (78)
+- [math](#math) (79)
 - [number theory](#number-theory) (23)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (31)
+- [sortings](#sortings) (32)
 - [strings](#strings) (15)
-- [trees](#trees) (1)
+- [trees](#trees) (2)
 - [two pointers](#two-pointers) (18)
 
 ---
@@ -421,6 +421,7 @@
 | 1853A | [Desorting](https://codeforces.com/contest/1853/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1853/A%20-%20Desorting/solution.cpp) |
 | 1855B | [Longest Divisors Interval](https://codeforces.com/contest/1855/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1855/B%20-%20Longest%20Divisors%20Interval/solution.cpp) |
 | 1857A | [Array Coloring](https://codeforces.com/contest/1857/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1857/A%20-%20Array%20Coloring/solution.cpp) |
+| 1857D | [Strong Vertices](https://codeforces.com/contest/1857/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1857/D%20-%20Strong%20Vertices/solution.cpp) |
 | 1858A | [Buttons](https://codeforces.com/contest/1858/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1858/A%20-%20Buttons/solution.cpp) |
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
@@ -500,6 +501,7 @@
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1849/B%20-%20Monsters/solution.cpp) |
 | 1850D | [Balanced Round](https://codeforces.com/contest/1850/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1850/D%20-%20Balanced%20Round/solution.cpp) |
 | 1857C | [Assembly via Minimums](https://codeforces.com/contest/1857/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1857/C%20-%20Assembly%20via%20Minimums/solution.cpp) |
+| 1857D | [Strong Vertices](https://codeforces.com/contest/1857/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1857/D%20-%20Strong%20Vertices/solution.cpp) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
 | 1869B | [2D Traveling](https://codeforces.com/contest/1869/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1869/B%20-%202D%20Traveling/solution.cpp) |
 | 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.cpp) |
@@ -535,6 +537,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
+| 1857D | [Strong Vertices](https://codeforces.com/contest/1857/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1857/D%20-%20Strong%20Vertices/solution.cpp) |
 
 ### two pointers
 
