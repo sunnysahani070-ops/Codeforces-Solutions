@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 183 | 24 |
+| 184 | 24 |
 
 ---
 
@@ -19,13 +19,13 @@
 - [combinatorics](#combinatorics) (8)
 - [constructive algorithms](#constructive-algorithms) (36)
 - [data structures](#data-structures) (18)
-- [dfs and similar](#dfs-and-similar) (3)
+- [dfs and similar](#dfs-and-similar) (4)
 - [dp](#dp) (17)
 - [dsu](#dsu) (1)
 - [flows](#flows) (1)
 - [games](#games) (4)
 - [geometry](#geometry) (4)
-- [graphs](#graphs) (1)
+- [graphs](#graphs) (2)
 - [greedy](#greedy) (91)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (36)
@@ -34,7 +34,7 @@
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (37)
 - [strings](#strings) (16)
-- [trees](#trees) (3)
+- [trees](#trees) (4)
 - [two pointers](#two-pointers) (23)
 
 ---
@@ -210,6 +210,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 862B | [Mahmoud and Ehab and the bipartiteness](https://codeforces.com/contest/862/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/862/B%20-%20Mahmoud%20and%20Ehab%20and%20the%20bipartiteness/solution.cpp) |
 | 1433D | [Districts Connection](https://codeforces.com/contest/1433/problem/D) | 1200 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1433/D%20-%20Districts%20Connection/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1676G | [White-Black Balanced Subtrees](https://codeforces.com/contest/1676/problem/G) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1676/G%20-%20White-Black%20Balanced%20Subtrees/solution.cpp) |
@@ -270,6 +271,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 862B | [Mahmoud and Ehab and the bipartiteness](https://codeforces.com/contest/862/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/862/B%20-%20Mahmoud%20and%20Ehab%20and%20the%20bipartiteness/solution.cpp) |
 | 1676G | [White-Black Balanced Subtrees](https://codeforces.com/contest/1676/problem/G) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1676/G%20-%20White-Black%20Balanced%20Subtrees/solution.cpp) |
 
 ### greedy
@@ -614,6 +616,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 862B | [Mahmoud and Ehab and the bipartiteness](https://codeforces.com/contest/862/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/862/B%20-%20Mahmoud%20and%20Ehab%20and%20the%20bipartiteness/solution.cpp) |
 | 1511C | [Yet Another Card Deck](https://codeforces.com/contest/1511/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1511/C%20-%20Yet%20Another%20Card%20Deck/solution.cpp) |
 | 1676G | [White-Black Balanced Subtrees](https://codeforces.com/contest/1676/problem/G) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1676/G%20-%20White-Black%20Balanced%20Subtrees/solution.cpp) |
 | 1857D | [Strong Vertices](https://codeforces.com/contest/1857/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1857/D%20-%20Strong%20Vertices/solution.cpp) |
