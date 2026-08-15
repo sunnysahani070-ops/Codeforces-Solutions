@@ -6,12 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 182 | 23 |
+| 183 | 24 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
+- [Uncategorized](#uncategorized) (1)
 - [binary search](#binary-search) (19)
 - [bitmasks](#bitmasks) (14)
 - [brute force](#brute-force) (36)
@@ -37,6 +38,12 @@
 - [two pointers](#two-pointers) (23)
 
 ---
+
+### Uncategorized
+
+| # | Problem | Difficulty | Solution |
+|---|---------|------------|----------|
+| 1077C | [Good Array](https://codeforces.com/contest/1077/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1077/C%20-%20Good%20Array/solution.cpp) |
 
 ### binary search
 
