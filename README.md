@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 172 | 22 |
+| 173 | 22 |
 
 ---
 
@@ -19,7 +19,7 @@
 - [constructive algorithms](#constructive-algorithms) (36)
 - [data structures](#data-structures) (17)
 - [dfs and similar](#dfs-and-similar) (3)
-- [dp](#dp) (14)
+- [dp](#dp) (15)
 - [dsu](#dsu) (1)
 - [games](#games) (4)
 - [geometry](#geometry) (4)
@@ -27,7 +27,7 @@
 - [greedy](#greedy) (86)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (35)
-- [math](#math) (84)
+- [math](#math) (85)
 - [number theory](#number-theory) (24)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (35)
@@ -208,6 +208,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1459B | [Move and Turn](https://codeforces.com/contest/1459/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1459/B%20-%20Move%20and%20Turn/solution.cpp) |
 | 1470A | [Strange Birthday Party](https://codeforces.com/contest/1470/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1470/A%20-%20Strange%20Birthday%20Party/solution.cpp) |
 | 1593B | [Make it Divisible by 25](https://codeforces.com/contest/1593/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1593/B%20-%20Make%20it%20Divisible%20by%2025/solution.cpp) |
 | 1631B | [Fun with Even Subarrays](https://codeforces.com/contest/1631/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1631/B%20-%20Fun%20with%20Even%20Subarrays/solution.cpp) |
@@ -399,6 +400,7 @@
 | 1420B | [Rock and Lever](https://codeforces.com/contest/1420/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1420/B%20-%20Rock%20and%20Lever/solution.cpp) |
 | 1440B | [Sum of Medians](https://codeforces.com/contest/1440/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1440/B%20-%20Sum%20of%20Medians/solution.cpp) |
 | 1447B | [Numbers Box](https://codeforces.com/contest/1447/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1447/B%20-%20Numbers%20Box/solution.cpp) |
+| 1459B | [Move and Turn](https://codeforces.com/contest/1459/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1459/B%20-%20Move%20and%20Turn/solution.cpp) |
 | 1471A | [Strange Partition](https://codeforces.com/contest/1471/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1471/A%20-%20Strange%20Partition/solution.cpp) |
 | 1474B | [Different Divisors](https://codeforces.com/contest/1474/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1474/B%20-%20Different%20Divisors/solution.cpp) |
 | 1475A | [Odd Divisor](https://codeforces.com/contest/1475/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1475/A%20-%20Odd%20Divisor/solution.cpp) |
