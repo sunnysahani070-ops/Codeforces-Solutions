@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 184 | 24 |
+| 185 | 24 |
 
 ---
 
@@ -18,7 +18,7 @@
 - [brute force](#brute-force) (36)
 - [combinatorics](#combinatorics) (8)
 - [constructive algorithms](#constructive-algorithms) (36)
-- [data structures](#data-structures) (18)
+- [data structures](#data-structures) (19)
 - [dfs and similar](#dfs-and-similar) (4)
 - [dp](#dp) (17)
 - [dsu](#dsu) (1)
@@ -28,8 +28,8 @@
 - [graphs](#graphs) (2)
 - [greedy](#greedy) (91)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (36)
-- [math](#math) (89)
+- [implementation](#implementation) (37)
+- [math](#math) (90)
 - [number theory](#number-theory) (27)
 - [shortest paths](#shortest-paths) (1)
 - [sortings](#sortings) (37)
@@ -187,6 +187,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 808B | [Average Sleep Time](https://codeforces.com/contest/808/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/808/B%20-%20Average%20Sleep%20Time/solution.cpp) |
 | 1237B | [Balanced Tunnel](https://codeforces.com/contest/1237/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1237/B%20-%20Balanced%20Tunnel/solution.cpp) |
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
 | 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.cpp) |
@@ -380,6 +381,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 808B | [Average Sleep Time](https://codeforces.com/contest/808/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/808/B%20-%20Average%20Sleep%20Time/solution.cpp) |
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.cpp) |
 | 1285B | [Just Eat It!](https://codeforces.com/contest/1285/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1285/B%20-%20Just%20Eat%20It!/solution.cpp) |
 | 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.cpp) |
@@ -421,6 +423,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 808B | [Average Sleep Time](https://codeforces.com/contest/808/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/808/B%20-%20Average%20Sleep%20Time/solution.cpp) |
 | 1294C | [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1294/C%20-%20Product%20of%20Three%20Numbers/solution.cpp) |
 | 1360D | [Buying Shovels](https://codeforces.com/contest/1360/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1360/D%20-%20Buying%20Shovels/solution.cpp) |
 | 1366B | [Shuffle](https://codeforces.com/contest/1366/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1366/B%20-%20Shuffle/solution.cpp) |
