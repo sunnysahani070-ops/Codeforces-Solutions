@@ -6,13 +6,13 @@
 
 | Total Problems | Topics |
 |---|---|
-| 187 | 24 |
+| 188 | 24 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
-- [Uncategorized](#uncategorized) (1)
+- [Uncategorized](#uncategorized) (2)
 - [binary search](#binary-search) (19)
 - [bitmasks](#bitmasks) (14)
 - [brute force](#brute-force) (36)
@@ -44,6 +44,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 1077C | [Good Array](https://codeforces.com/contest/1077/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1077/C%20-%20Good%20Array/solution.cpp) |
+| 2257A | [Creating Abbreviations](https://codeforces.com/contest/2257/problem/A) | Unrated | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/2257/A%20-%20Creating%20Abbreviations/solution.cpp) |
 
 ### binary search
 
