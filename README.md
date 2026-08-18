@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 196 | 24 |
+| 197 | 24 |
 
 ---
 
@@ -17,7 +17,7 @@
 - [bitmasks](#bitmasks) (15)
 - [brute force](#brute-force) (37)
 - [combinatorics](#combinatorics) (8)
-- [constructive algorithms](#constructive-algorithms) (37)
+- [constructive algorithms](#constructive-algorithms) (38)
 - [data structures](#data-structures) (22)
 - [dfs and similar](#dfs-and-similar) (4)
 - [dp](#dp) (19)
@@ -26,7 +26,7 @@
 - [games](#games) (5)
 - [geometry](#geometry) (4)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (96)
+- [greedy](#greedy) (97)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (37)
 - [math](#math) (92)
@@ -184,6 +184,7 @@
 | 1831A | [Twin Permutations](https://codeforces.com/contest/1831/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1831/A%20-%20Twin%20Permutations/solution.cpp) |
 | 1831B | [Array merging](https://codeforces.com/contest/1831/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1831/B%20-%20Array%20merging/solution.cpp) |
 | 1837A | [Grasshopper on a Line](https://codeforces.com/contest/1837/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1837/A%20-%20Grasshopper%20on%20a%20Line/solution.cpp) |
+| 1837D | [Bracket Coloring](https://codeforces.com/contest/1837/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1837/D%20-%20Bracket%20Coloring/solution.cpp) |
 | 1845A | [Forbidden Integer](https://codeforces.com/contest/1845/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1845/A%20-%20Forbidden%20Integer/solution.cpp) |
 | 1859A | [United We Stand](https://codeforces.com/contest/1859/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1859/A%20-%20United%20We%20Stand/solution.cpp) |
 | 1859B | [Olya and Game with Arrays](https://codeforces.com/contest/1859/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1859/B%20-%20Olya%20and%20Game%20with%20Arrays/solution.cpp) |
@@ -365,6 +366,7 @@
 | 1832C | [Contrast Value](https://codeforces.com/contest/1832/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1832/C%20-%20Contrast%20Value/solution.cpp) |
 | 1834A | [Unit Array](https://codeforces.com/contest/1834/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1834/A%20-%20Unit%20Array/solution.cpp) |
 | 1837B | [Comparison String](https://codeforces.com/contest/1837/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1837/B%20-%20Comparison%20String/solution.cpp) |
+| 1837D | [Bracket Coloring](https://codeforces.com/contest/1837/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1837/D%20-%20Bracket%20Coloring/solution.cpp) |
 | 1842B | [Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1842/B%20-%20Tenzing%20and%20Books/solution.cpp) |
 | 1848B | [Vika and the Bridge](https://codeforces.com/contest/1848/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1848/B%20-%20Vika%20and%20the%20Bridge/solution.cpp) |
 | 1849B | [Monsters](https://codeforces.com/contest/1849/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1849/B%20-%20Monsters/solution.cpp) |
