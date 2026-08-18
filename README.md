@@ -6,19 +6,19 @@
 
 | Total Problems | Topics |
 |---|---|
-| 195 | 24 |
+| 196 | 24 |
 
 ---
 
 ## 📂 Topic-Wise Problems
 
 - [Uncategorized](#uncategorized) (4)
-- [binary search](#binary-search) (23)
-- [bitmasks](#bitmasks) (14)
+- [binary search](#binary-search) (24)
+- [bitmasks](#bitmasks) (15)
 - [brute force](#brute-force) (37)
 - [combinatorics](#combinatorics) (8)
 - [constructive algorithms](#constructive-algorithms) (37)
-- [data structures](#data-structures) (21)
+- [data structures](#data-structures) (22)
 - [dfs and similar](#dfs-and-similar) (4)
 - [dp](#dp) (19)
 - [dsu](#dsu) (1)
@@ -26,7 +26,7 @@
 - [games](#games) (5)
 - [geometry](#geometry) (4)
 - [graphs](#graphs) (2)
-- [greedy](#greedy) (95)
+- [greedy](#greedy) (96)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (37)
 - [math](#math) (92)
@@ -69,6 +69,7 @@
 | 1848B | [Vika and the Bridge](https://codeforces.com/contest/1848/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1848/B%20-%20Vika%20and%20the%20Bridge/solution.cpp) |
 | 1850E | [Cardboard for Pictures](https://codeforces.com/contest/1850/problem/E) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1850/E%20-%20Cardboard%20for%20Pictures/solution.cpp) |
 | 1873E | [Building an Aquarium](https://codeforces.com/contest/1873/problem/E) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1873/E%20-%20Building%20an%20Aquarium/solution.cpp) |
+| 1878E | [Iva & Pav](https://codeforces.com/contest/1878/problem/E) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1878/E%20-%20Iva%20%26%20Pav/solution.cpp) |
 | 1883G1 | [Dances (Easy version)](https://codeforces.com/contest/1883/problem/G1) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1883/G1%20-%20Dances%20(Easy%20version)/solution.cpp) |
 | 1904B | [Collecting Game](https://codeforces.com/contest/1904/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1904/B%20-%20Collecting%20Game/solution.cpp) |
 | 1904C | [Array Game](https://codeforces.com/contest/1904/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1904/C%20-%20Array%20Game/solution.cpp) |
@@ -93,6 +94,7 @@
 | 1805A | [We Need the Zero](https://codeforces.com/contest/1805/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1805/A%20-%20We%20Need%20the%20Zero/solution.cpp) |
 | 1807G2 | [Subsequence Addition (Hard Version)](https://codeforces.com/contest/1807/problem/G2) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1807/G2%20-%20Subsequence%20Addition%20(Hard%20Version)/solution.cpp) |
 | 1842B | [Tenzing and Books](https://codeforces.com/contest/1842/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1842/B%20-%20Tenzing%20and%20Books/solution.cpp) |
+| 1878E | [Iva & Pav](https://codeforces.com/contest/1878/problem/E) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1878/E%20-%20Iva%20%26%20Pav/solution.cpp) |
 | 1909B | [Make Almost Equal With Mod](https://codeforces.com/contest/1909/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1909/B%20-%20Make%20Almost%20Equal%20With%20Mod/solution.cpp) |
 
 ### brute force
@@ -212,6 +214,7 @@
 | 1793C | [Dora and Search](https://codeforces.com/contest/1793/problem/C) | 1200 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1793/C%20-%20Dora%20and%20Search/solution.cpp) |
 | 1807D | [Odd Queries](https://codeforces.com/contest/1807/problem/D) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1807/D%20-%20Odd%20Queries/solution.cpp) |
 | 1848B | [Vika and the Bridge](https://codeforces.com/contest/1848/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1848/B%20-%20Vika%20and%20the%20Bridge/solution.cpp) |
+| 1878E | [Iva & Pav](https://codeforces.com/contest/1878/problem/E) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1878/E%20-%20Iva%20%26%20Pav/solution.cpp) |
 | 1904C | [Array Game](https://codeforces.com/contest/1904/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1904/C%20-%20Array%20Game/solution.cpp) |
 | 1915E | [Romantic Glasses](https://codeforces.com/contest/1915/problem/E) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1915/E%20-%20Romantic%20Glasses/solution.cpp) |
 | 1917B | [Erase First or Second Letter](https://codeforces.com/contest/1917/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1917/B%20-%20Erase%20First%20or%20Second%20Letter/solution.cpp) |
@@ -375,6 +378,7 @@
 | 1875A | [Jellyfish and Undertale](https://codeforces.com/contest/1875/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1875/A%20-%20Jellyfish%20and%20Undertale/solution.cpp) |
 | 1876A | [Helmets in Night Light](https://codeforces.com/contest/1876/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1876/A%20-%20Helmets%20in%20Night%20Light/solution.cpp) |
 | 1878A | [How Much Does Daytona Cost?](https://codeforces.com/contest/1878/problem/A) | 800 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1878/A%20-%20How%20Much%20Does%20Daytona%20Cost%3F/solution.cpp) |
+| 1878E | [Iva & Pav](https://codeforces.com/contest/1878/problem/E) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1878/E%20-%20Iva%20%26%20Pav/solution.cpp) |
 | 1879C | [Make it Alternating](https://codeforces.com/contest/1879/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1879/C%20-%20Make%20it%20Alternating/solution.cpp) |
 | 1883G1 | [Dances (Easy version)](https://codeforces.com/contest/1883/problem/G1) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1883/G1%20-%20Dances%20(Easy%20version)/solution.cpp) |
 | 1899C | [Yarik and Array](https://codeforces.com/contest/1899/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1899/C%20-%20Yarik%20and%20Array/solution.cpp) |
