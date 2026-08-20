@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 204 | 25 |
+| 205 | 25 |
 
 ---
 
@@ -14,7 +14,7 @@
 
 - [Uncategorized](#uncategorized) (4)
 - [binary search](#binary-search) (26)
-- [bitmasks](#bitmasks) (15)
+- [bitmasks](#bitmasks) (16)
 - [brute force](#brute-force) (39)
 - [combinatorics](#combinatorics) (9)
 - [constructive algorithms](#constructive-algorithms) (39)
@@ -29,7 +29,7 @@
 - [greedy](#greedy) (98)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (38)
-- [math](#math) (94)
+- [math](#math) (95)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (30)
 - [shortest paths](#shortest-paths) (1)
@@ -91,6 +91,7 @@
 | 1567B | [MEXor Mixup](https://codeforces.com/contest/1567/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1567/B%20-%20MEXor%20Mixup/solution.cpp) |
 | 1601A | [Array Elimination](https://codeforces.com/contest/1601/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1601/A%20-%20Array%20Elimination/solution.cpp) |
 | 1632B | [Roof Construction](https://codeforces.com/contest/1632/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1632/B%20-%20Roof%20Construction/solution.cpp) |
+| 1634B | [Fortune Telling](https://codeforces.com/contest/1634/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1634/B%20-%20Fortune%20Telling/solution.cpp) |
 | 1669H | [Maximal AND](https://codeforces.com/contest/1669/problem/H) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1669/H%20-%20Maximal%20AND/solution.cpp) |
 | 1682B | [AND Sorting](https://codeforces.com/contest/1682/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1682/B%20-%20AND%20Sorting/solution.cpp) |
 | 1775B | [Gardener and the Array](https://codeforces.com/contest/1775/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1775/B%20-%20Gardener%20and%20the%20Array/solution.cpp) |
@@ -497,6 +498,7 @@
 | 1618C | [Paint the Array](https://codeforces.com/contest/1618/problem/C) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1618/C%20-%20Paint%20the%20Array/solution.cpp) |
 | 1620B | [Triangles on a Rectangle](https://codeforces.com/contest/1620/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1620/B%20-%20Triangles%20on%20a%20Rectangle/solution.cpp) |
 | 1624B | [Make AP](https://codeforces.com/contest/1624/problem/B) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1624/B%20-%20Make%20AP/solution.cpp) |
+| 1634B | [Fortune Telling](https://codeforces.com/contest/1634/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1634/B%20-%20Fortune%20Telling/solution.cpp) |
 | 1648A | [Weird Sum](https://codeforces.com/contest/1648/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1648/A%20-%20Weird%20Sum/solution.cpp) |
 | 1656B | [Subtract Operation](https://codeforces.com/contest/1656/problem/B) | 1100 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1656/B%20-%20Subtract%20Operation/solution.cpp) |
 | 1659A | [Red Versus Blue](https://codeforces.com/contest/1659/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1659/A%20-%20Red%20Versus%20Blue/solution.cpp) |
