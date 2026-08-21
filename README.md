@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 213 | 25 |
+| 214 | 25 |
 
 ---
 
@@ -16,11 +16,11 @@
 - [binary search](#binary-search) (26)
 - [bitmasks](#bitmasks) (18)
 - [brute force](#brute-force) (40)
-- [combinatorics](#combinatorics) (11)
+- [combinatorics](#combinatorics) (12)
 - [constructive algorithms](#constructive-algorithms) (40)
 - [data structures](#data-structures) (26)
 - [dfs and similar](#dfs-and-similar) (5)
-- [dp](#dp) (24)
+- [dp](#dp) (25)
 - [dsu](#dsu) (1)
 - [flows](#flows) (1)
 - [games](#games) (5)
@@ -28,7 +28,7 @@
 - [graphs](#graphs) (4)
 - [greedy](#greedy) (102)
 - [hashing](#hashing) (1)
-- [implementation](#implementation) (38)
+- [implementation](#implementation) (39)
 - [math](#math) (102)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (32)
@@ -152,6 +152,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1215B | [The Number of Products](https://codeforces.com/contest/1215/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1215/B%20-%20The%20Number%20of%20Products/solution.cpp) |
 | 1475C | [Ball in Berland](https://codeforces.com/contest/1475/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1475/C%20-%20Ball%20in%20Berland/solution.cpp) |
 | 1513B | [AND Sequences](https://codeforces.com/contest/1513/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1513/B%20-%20AND%20Sequences/solution.cpp) |
 | 1514B | [AND 0, Sum Big](https://codeforces.com/contest/1514/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1514/B%20-%20AND%200%2C%20Sum%20Big/solution.cpp) |
@@ -256,6 +257,7 @@
 |---|---------|------------|----------|
 | 665C | [Simple Strings](https://codeforces.com/contest/665/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/665/C%20-%20Simple%20Strings/solution.cpp) |
 | 1178B | [WOW Factor](https://codeforces.com/contest/1178/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1178/B%20-%20WOW%20Factor/solution.cpp) |
+| 1215B | [The Number of Products](https://codeforces.com/contest/1215/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1215/B%20-%20The%20Number%20of%20Products/solution.cpp) |
 | 1285B | [Just Eat It!](https://codeforces.com/contest/1285/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1285/B%20-%20Just%20Eat%20It!/solution.cpp) |
 | 1320A | [Journey Planning](https://codeforces.com/contest/1320/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1320/A%20-%20Journey%20Planning/solution.cpp) |
 | 1350B | [Orac and Models](https://codeforces.com/contest/1350/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1350/B%20-%20Orac%20and%20Models/solution.cpp) |
@@ -439,6 +441,7 @@
 |---|---------|------------|----------|
 | 808B | [Average Sleep Time](https://codeforces.com/contest/808/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/808/B%20-%20Average%20Sleep%20Time/solution.cpp) |
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.cpp) |
+| 1215B | [The Number of Products](https://codeforces.com/contest/1215/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1215/B%20-%20The%20Number%20of%20Products/solution.cpp) |
 | 1285B | [Just Eat It!](https://codeforces.com/contest/1285/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1285/B%20-%20Just%20Eat%20It!/solution.cpp) |
 | 1362A | [Johnny and Ancient Computer](https://codeforces.com/contest/1362/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1362/A%20-%20Johnny%20and%20Ancient%20Computer/solution.cpp) |
 | 1504B | [Flip the Bits](https://codeforces.com/contest/1504/problem/B) | 1200 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1504/B%20-%20Flip%20the%20Bits/solution.cpp) |
