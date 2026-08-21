@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 212 | 25 |
+| 213 | 25 |
 
 ---
 
@@ -18,22 +18,22 @@
 - [brute force](#brute-force) (40)
 - [combinatorics](#combinatorics) (11)
 - [constructive algorithms](#constructive-algorithms) (40)
-- [data structures](#data-structures) (25)
+- [data structures](#data-structures) (26)
 - [dfs and similar](#dfs-and-similar) (5)
-- [dp](#dp) (23)
+- [dp](#dp) (24)
 - [dsu](#dsu) (1)
 - [flows](#flows) (1)
 - [games](#games) (5)
 - [geometry](#geometry) (5)
 - [graphs](#graphs) (4)
-- [greedy](#greedy) (101)
+- [greedy](#greedy) (102)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (38)
-- [math](#math) (101)
+- [math](#math) (102)
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (32)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (43)
+- [sortings](#sortings) (44)
 - [strings](#strings) (17)
 - [trees](#trees) (5)
 - [two pointers](#two-pointers) (29)
@@ -215,6 +215,7 @@
 |---|---------|------------|----------|
 | 808B | [Average Sleep Time](https://codeforces.com/contest/808/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/808/B%20-%20Average%20Sleep%20Time/solution.cpp) |
 | 1237B | [Balanced Tunnel](https://codeforces.com/contest/1237/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1237/B%20-%20Balanced%20Tunnel/solution.cpp) |
+| 1320A | [Journey Planning](https://codeforces.com/contest/1320/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1320/A%20-%20Journey%20Planning/solution.cpp) |
 | 1380A | [Three Indices](https://codeforces.com/contest/1380/problem/A) | 900 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1380/A%20-%20Three%20Indices/solution.cpp) |
 | 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.cpp) |
 | 1498B | [Box Fitting](https://codeforces.com/contest/1498/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1498/B%20-%20Box%20Fitting/solution.cpp) |
@@ -256,6 +257,7 @@
 | 665C | [Simple Strings](https://codeforces.com/contest/665/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/665/C%20-%20Simple%20Strings/solution.cpp) |
 | 1178B | [WOW Factor](https://codeforces.com/contest/1178/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1178/B%20-%20WOW%20Factor/solution.cpp) |
 | 1285B | [Just Eat It!](https://codeforces.com/contest/1285/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1285/B%20-%20Just%20Eat%20It!/solution.cpp) |
+| 1320A | [Journey Planning](https://codeforces.com/contest/1320/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1320/A%20-%20Journey%20Planning/solution.cpp) |
 | 1350B | [Orac and Models](https://codeforces.com/contest/1350/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1350/B%20-%20Orac%20and%20Models/solution.cpp) |
 | 1459B | [Move and Turn](https://codeforces.com/contest/1459/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1459/B%20-%20Move%20and%20Turn/solution.cpp) |
 | 1470A | [Strange Birthday Party](https://codeforces.com/contest/1470/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1470/A%20-%20Strange%20Birthday%20Party/solution.cpp) |
@@ -326,6 +328,7 @@
 | 1119B | [Alyona and a Narrow Fridge](https://codeforces.com/contest/1119/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1119/B%20-%20Alyona%20and%20a%20Narrow%20Fridge/solution.cpp) |
 | 1285B | [Just Eat It!](https://codeforces.com/contest/1285/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1285/B%20-%20Just%20Eat%20It!/solution.cpp) |
 | 1294C | [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1294/C%20-%20Product%20of%20Three%20Numbers/solution.cpp) |
+| 1320A | [Journey Planning](https://codeforces.com/contest/1320/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1320/A%20-%20Journey%20Planning/solution.cpp) |
 | 1362C | [Johnny and Another Rating Drop](https://codeforces.com/contest/1362/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1362/C%20-%20Johnny%20and%20Another%20Rating%20Drop/solution.cpp) |
 | 1364B | [Most socially-distanced subsequence](https://codeforces.com/contest/1364/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1364/B%20-%20Most%20socially-distanced%20subsequence/solution.cpp) |
 | 1372B | [Omkar and Last Class of Math](https://codeforces.com/contest/1372/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1372/B%20-%20Omkar%20and%20Last%20Class%20of%20Math/solution.cpp) |
@@ -479,6 +482,7 @@
 |---|---------|------------|----------|
 | 808B | [Average Sleep Time](https://codeforces.com/contest/808/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/808/B%20-%20Average%20Sleep%20Time/solution.cpp) |
 | 1294C | [Product of Three Numbers](https://codeforces.com/contest/1294/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1294/C%20-%20Product%20of%20Three%20Numbers/solution.cpp) |
+| 1320A | [Journey Planning](https://codeforces.com/contest/1320/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1320/A%20-%20Journey%20Planning/solution.cpp) |
 | 1350B | [Orac and Models](https://codeforces.com/contest/1350/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1350/B%20-%20Orac%20and%20Models/solution.cpp) |
 | 1360D | [Buying Shovels](https://codeforces.com/contest/1360/problem/D) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1360/D%20-%20Buying%20Shovels/solution.cpp) |
 | 1362C | [Johnny and Another Rating Drop](https://codeforces.com/contest/1362/problem/C) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1362/C%20-%20Johnny%20and%20Another%20Rating%20Drop/solution.cpp) |
@@ -636,6 +640,7 @@
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.cpp) |
 | 1237B | [Balanced Tunnel](https://codeforces.com/contest/1237/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1237/B%20-%20Balanced%20Tunnel/solution.cpp) |
 | 1312B | [Bogosort](https://codeforces.com/contest/1312/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1312/B%20-%20Bogosort/solution.cpp) |
+| 1320A | [Journey Planning](https://codeforces.com/contest/1320/problem/A) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1320/A%20-%20Journey%20Planning/solution.cpp) |
 | 1374D | [Zero Remainder Array](https://codeforces.com/contest/1374/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1374/D%20-%20Zero%20Remainder%20Array/solution.cpp) |
 | 1438B | [Valerii Against Everyone](https://codeforces.com/contest/1438/problem/B) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1438/B%20-%20Valerii%20Against%20Everyone/solution.cpp) |
 | 1470A | [Strange Birthday Party](https://codeforces.com/contest/1470/problem/A) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1470/A%20-%20Strange%20Birthday%20Party/solution.cpp) |
