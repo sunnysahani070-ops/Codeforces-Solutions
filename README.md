@@ -6,7 +6,7 @@
 
 | Total Problems | Topics |
 |---|---|
-| 218 | 27 |
+| 219 | 27 |
 
 ---
 
@@ -27,7 +27,7 @@
 - [games](#games) (5)
 - [geometry](#geometry) (5)
 - [graphs](#graphs) (5)
-- [greedy](#greedy) (103)
+- [greedy](#greedy) (104)
 - [hashing](#hashing) (1)
 - [implementation](#implementation) (39)
 - [interactive](#interactive) (1)
@@ -35,7 +35,7 @@
 - [matrices](#matrices) (1)
 - [number theory](#number-theory) (32)
 - [shortest paths](#shortest-paths) (1)
-- [sortings](#sortings) (45)
+- [sortings](#sortings) (46)
 - [strings](#strings) (17)
 - [trees](#trees) (5)
 - [two pointers](#two-pointers) (29)
@@ -340,6 +340,7 @@
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
 | 665C | [Simple Strings](https://codeforces.com/contest/665/problem/C) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/665/C%20-%20Simple%20Strings/solution.cpp) |
+| 1110B | [Tape](https://codeforces.com/contest/1110/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1110/B%20-%20Tape/solution.cpp) |
 | 1119B | [Alyona and a Narrow Fridge](https://codeforces.com/contest/1119/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1119/B%20-%20Alyona%20and%20a%20Narrow%20Fridge/solution.cpp) |
 | 1183D | [Candy Box (easy version)](https://codeforces.com/contest/1183/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1183/D%20-%20Candy%20Box%20(easy%20version)/solution.cpp) |
 | 1285B | [Just Eat It!](https://codeforces.com/contest/1285/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1285/B%20-%20Just%20Eat%20It!/solution.cpp) |
@@ -660,6 +661,7 @@
 
 | # | Problem | Difficulty | Solution |
 |---|---------|------------|----------|
+| 1110B | [Tape](https://codeforces.com/contest/1110/problem/B) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1110/B%20-%20Tape/solution.cpp) |
 | 1119B | [Alyona and a Narrow Fridge](https://codeforces.com/contest/1119/problem/B) | 1300 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1119/B%20-%20Alyona%20and%20a%20Narrow%20Fridge/solution.cpp) |
 | 1155A | [Reverse a Substring](https://codeforces.com/contest/1155/problem/A) | 1000 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1155/A%20-%20Reverse%20a%20Substring/solution.cpp) |
 | 1183D | [Candy Box (easy version)](https://codeforces.com/contest/1183/problem/D) | 1400 | [C++20 (GCC 13-64)](https://github.com/sunnysahani070-ops/Codeforces-Solutions/blob/HEAD/1183/D%20-%20Candy%20Box%20(easy%20version)/solution.cpp) |
